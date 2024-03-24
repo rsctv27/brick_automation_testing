@@ -1,0 +1,15 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Robot Framework output files
+output.xml
+log.html
+report.html
+*.png
+
+# Ignore Selenium Webdriver binaries
+geckodriver
+chromedriver
+
+# Ignore virtual environment directories
+venv/
